@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+
+--breakpoint-lg: 1024px;
+
+/* font */
+--font-montserrat: "Montserrat", sans-serif;
+  --font-fraunces: "Fraunces", serif;
+
+
+ /* Primary colors*/
+--color-green-500: hsl(158, 36%, 37%);
+--color-green-700: hsl(158, 42%, 18%);
+
+/* Neutral colors*/
+--color-black: hsl(212, 21%, 14%);
+--color-grey: hsl(228, 12%, 48%);
+--color-cream: hsl(30, 38%, 92%);
+--color-white: hsl(0, 0%, 100%);
+
+}
